@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Muhammed",
+        "DOB": "1998-07-06",
+        "Height": 161,
+        "City": "Malappuram",
+        "State": "Kerala"
+    },
+    {
+        "Name": "Abi",
+        "DOB": "1980-07-20",
+        "Height": 166,
+        "City": "velore",
+        "State": "karnataka"
+    },
+    {
+        "Name": "Johnson",
+        "DOB": "1990-02-14",
+        "Height": 185,
+        "City": "madaras",
+        "State": "chennai"
+    },
+    {
+        "Name": "Alifukr",
+        "DOB": "1989-05-28",
+        "Height": 170,
+        "City": "Malappuram",
+        "State": "Kerala"
+    },
+    {
+        "Name": "dilshad",
+        "DOB": "2001-02-19",
+        "Height": 189,
+        "City": "abc",
+        "State": "pune"
+    }
+]
